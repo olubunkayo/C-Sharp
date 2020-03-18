@@ -1,0 +1,11 @@
+C:\Users\ENGR TOLU\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\ENGR TOLU\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\ENGR TOLU\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\ENGR TOLU\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\ENGR TOLU\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\ENGR TOLU\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\ENGR TOLU\Variables\obj\Debug\netcoreapp3.1\Variables.csprojAssemblyReference.cache
+C:\Users\ENGR TOLU\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\ENGR TOLU\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\ENGR TOLU\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\ENGR TOLU\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
